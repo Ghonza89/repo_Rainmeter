@@ -1,0 +1,1 @@
+Command1=!Execute ["D:\Dropbox\Programmering\Shutdown_Computer\Debug\Shutdown_Computer.exe $UserInput$"]
